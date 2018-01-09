@@ -1,0 +1,7 @@
+header
+{border-bottom:1px solid grey;padding-left:30px;text-align:left;}
+body {margin:0;}
+nav {border-right:1px solid grey; width:200px; float: left; height:700px;}
+nav ol {margin:0; padding:20px; list-style: none;}
+#content {padding-left:20px; float:left; width:500px; text-align: justify;}
+body.black{background-color:black; color:white;}
